@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Max-Breminale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80441814661026,
+          53.06079586785818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Über winni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.828732371330261,
+          53.068999758406186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.835242092609406,
+          53.07368285064544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "David More"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.828442692756653,
+          53.07139777153057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nebirosh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79806399345398,
+          53.0713558719098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ahne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80027949810028,
+          53.09558316142322
+        ]
+      }
+    }
+  ]
+}
