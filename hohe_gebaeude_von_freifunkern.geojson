@@ -80,22 +80,6 @@
           53.0713558719098
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "ahne"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.80027949810028,
-          53.09558316142322
-        ]
-      }
     }
   ]
 }
