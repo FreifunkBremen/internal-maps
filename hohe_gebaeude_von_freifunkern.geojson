@@ -80,6 +80,21 @@
           53.0713558719098
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Stefan - T254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.603137,53.175979
+        ]
+      }
     }
   ]
 }
