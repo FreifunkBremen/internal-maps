@@ -89,7 +89,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "HohentorHoemiesWG",
-        "contact": "genofire"
+        "contact": "genofire",
+        "visibility": "not much - height middle"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +107,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "T247 - Güterbahnhog - Tor13",
-        "contact": "über genofire"
+        "contact": "über genofire",
+        "visibility": "much - not height"
       },
       "geometry": {
         "type": "Point",
