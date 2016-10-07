@@ -7,7 +7,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Max-Breminale"
+        "contact": "Max-Breminale"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Über winni"
+        "contact": "Über winni"
       },
       "geometry": {
         "type": "Point",
@@ -39,23 +39,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "ja"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.835242092609406,
-          53.07368285064544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "David More"
+        "contact": "David More"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +55,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Nebirosh"
+        "contact": "Nebirosh"
       },
       "geometry": {
         "type": "Point",
@@ -87,12 +71,48 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Stefan - T254"
+        "name": "T254",
+        "contact": "Stefan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.603137,53.175979
+          8.603137,
+          53.175979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "HohentorHoemiesWG",
+        "contact": "genofire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783268928527832,
+          53.06946712359051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "T247 - Güterbahnhog - Tor13",
+        "contact": "über genofire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.80715936422348,
+          53.085842652721574
         ]
       }
     }
