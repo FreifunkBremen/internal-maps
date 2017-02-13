@@ -110,6 +110,111 @@
           53.085842652721574
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "",
+        "name": "Café Sand",
+        "contact": "über SimJoSt",
+        "visibility": "not high, but a lot of houses on Osterdeich and some Schrebergarten houses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.821573555469513,
+          53.067020652380904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SternMa",
+        "contact": "Max oder SimJoSt",
+        "visibility": "a lot in all directions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83352816104889,
+          53.06871772523773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hart Backbord",
+        "visibility": "viel, hoch, T191",
+        "contact": "Alex oder SimJoSt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.784323036670685,
+          53.097647924006594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hal över - Fährhäuschen",
+        "contact": "SimJoSt",
+        "visibility": "houses up and down the river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.822329938411713,
+          53.06881764577151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "steintor",
+        "contact": "anon6789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.824722468852997,
+          53.07182482303236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Steintor_05",
+        "contact": "anon6789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.824851214885712,
+          53.07289323899239
+        ]
+      }
     }
   ]
 }
