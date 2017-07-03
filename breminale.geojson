@@ -1,1 +1,803 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"stroke":"#7cb765","stroke-width":2,"stroke-opacity":1,"fill":"#7cb765","fill-opacity":0.5,"name":"Himmlische Wiese"},"geometry":{"type":"Polygon","coordinates":[[[8.812633752822876,53.073083391693665],[8.811716437339783,53.07260317393244],[8.811249732971191,53.07226476222629],[8.811335563659666,53.07187800273419],[8.812070488929749,53.071578261738594],[8.812338709831238,53.07183932659391],[8.8128000497818,53.071752305151335],[8.813062906265259,53.07182965755344],[8.812633752822876,53.073083391693665]]]}},{"type":"Feature","properties":{"stroke":"#7cb765","stroke-width":2,"stroke-opacity":1,"fill":"#7cb765","fill-opacity":0.5,"name":"Biodorf"},"geometry":{"type":"Polygon","coordinates":[[[8.812842965126038,53.07059522555277],[8.81303608417511,53.07076927293848],[8.814715147018433,53.070301921885324],[8.814531415700912,53.070077913892824],[8.812842965126038,53.07059522555277]]]}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.812271654605865,53.072506485144906],[8.812303841114044,53.07247425550082],[8.812247514724731,53.072501650699834],[8.812271654605865,53.072506485144906]]]},"properties":{"name":"Bierwagen 10\n"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":[[8.8163634,53.07005860000001],[8.818741142749786,53.069549314874386]]},"properties":{"stroke":"#0000ff","stroke-width":2,"stroke-opacity":1,"name":"LWL Uplink <> Bauwagen"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8163446,53.070064200000004]},"properties":{"marker-color":"#00ff00","marker-size":"medium","marker-symbol":"","name":"LWLcom-Uplink","styleUrl":"#icon-960-F4B400-nodesc","styleHash":"1d2b331f","stroke":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8203397,53.0690223]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"EV2"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8198838,53.0691077]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"269+B44"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.819191753864288,53.069212490774134]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":252}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.81873309612274,53.06930596375505]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"276+615"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8160482,53.069874]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":174}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.815120160579681,53.07014237674389]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"EV3"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8140634,53.0704162]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"285+B38"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8135054,53.0705678]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"254+B41"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.812901973724365,53.07079183458514]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"W403+B36"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.811461627483368,53.0712462880935]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"A205"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.811359703540802,53.07144128263206]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":401}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.81201684474945,53.07124145350695]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":411}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8134062,53.0703712]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":46}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8138274,53.0702277]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":47}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.814964592456818,53.06991997949989]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":31}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.81604552268982,53.06965245665575]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"A201"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.816885054111479,53.06945100763412]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":24}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.818491697311401,53.06911579437352]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":41}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.819127380847931,53.06900298163172]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"A210"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8124621,53.0729609]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":275}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.812282383441925,53.07274820670667]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":267}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.811823725700378,53.07252743440064]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"EV 4+U10F"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.8126874,53.0727031]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"A207"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.814489841461182,53.07032931846633]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"268+B47"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.817976713180542,53.069415552508765]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"EV1"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[8.81715327501297,53.06964278712425]},"properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"191+B50"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8177567,53.0692979],[8.817818500000003,53.0692334],[8.8181403,53.0691738],[8.818258399999998,53.0691931],[8.818312,53.069297899999995],[8.818255599999999,53.06936720000001],[8.817944499999998,53.0694269],[8.817821099999998,53.0694043],[8.8177567,53.0692979]]]},"properties":{"stroke":"#ff0000","stroke-width":2,"stroke-opacity":1,"fill":"#ff0000","fill-opacity":0.5,"name":"Deichgraf"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8202593,53.069003800000004],[8.820144,53.0689699],[8.820114500000003,53.0688942],[8.8201654,53.06882490000001],[8.8203129,53.06880240000001],[8.8204389,53.0688346],[8.820465800000001,53.0689071],[8.8204122,53.0689764],[8.8202593,53.069003800000004]]]},"properties":{"stroke":"#ff0000","stroke-width":2,"stroke-opacity":1,"fill":"#ff0000","fill-opacity":0.5,"name":"Flut"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8175637,53.0695251],[8.81751,53.0694252],[8.8175637,53.0694139],[8.817523400000002,53.0693446],[8.817652200000001,53.06931560000001],[8.8176334,53.0692786],[8.817802399999998,53.0692447],[8.817915,53.0694526],[8.8175637,53.0695251]]]},"properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"name":"Deichgraf - Backstage"}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"name":"Wohnzimmer Zelt"},"geometry":{"type":"Polygon","coordinates":[[[8.81289392709732,53.070709645672586],[8.81289392709732,53.070780553763306],[8.813028037548065,53.070780553763306],[8.813028037548065,53.070709645672586],[8.81289392709732,53.070709645672586]]]}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.815537299999999,53.06993529999999],[8.815497000000002,53.0699949],[8.8153816,53.0700223],[8.815266300000001,53.0700046],[8.8152234,53.06993369999999],[8.815250199999998,53.0698644],[8.8153871,53.0698322],[8.815488900000002,53.069861200000005],[8.815537299999999,53.06993529999999]]]},"properties":{"stroke":"#ff0000","stroke-width":2,"stroke-opacity":1,"fill":"#ff0000","fill-opacity":0.5,"name":"Baronesse"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8158605,53.06992639999999],[8.814746000000001,53.0702246],[8.814681700000001,53.0701327],[8.8157961,53.0698346],[8.8158605,53.06992639999999]]]},"properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"name":"Baronesse - Backstage"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8117164,53.07094489999999],[8.811657400000001,53.0709675],[8.8116199,53.0709337],[8.8116896,53.0709095],[8.8117164,53.07094489999999]]]},"properties":{"name":"Bierwagen 1"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8141653,53.0701279],[8.8141814,53.0701408],[8.8140929,53.07016819999999],[8.8140768,53.0701504],[8.8141653,53.0701279]]]},"properties":{"name":"Bierstand - C11"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8144335,53.0700441],[8.814479099999998,53.070026299999995],[8.814522,53.0700715],[8.8144657,53.070086],[8.8144335,53.0700441]]]},"properties":{"name":"Bierwagen 2"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.815058499999997,53.0698571],[8.815096,53.0699039],[8.8150263,53.0699184],[8.814994099999998,53.0698765],[8.815058499999997,53.0698571]]]},"properties":{"name":"Bierwagen 3"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.815490300000002,53.069749200000004],[8.815522500000002,53.0697894],[8.815458099999999,53.0698056],[8.8154259,53.0697653],[8.815490300000002,53.069749200000004]]]},"properties":{"name":"Bierwagen 4"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.816152800000001,53.0696944],[8.816185,53.0697379],[8.8161072,53.0697572],[8.8160723,53.0697089],[8.816152800000001,53.0696944]]]},"properties":{"name":"Bierwagen 5"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8170353,53.0694784],[8.8170674,53.0695268],[8.8169897,53.0695461],[8.8169602,53.069499400000005],[8.8170353,53.0694784]]]},"properties":{"name":"Bierwagen 6"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.818328100000002,53.06912950000001],[8.8183161,53.0691118],[8.818356300000001,53.0691053],[8.818367,53.0691239],[8.8184139,53.0691319],[8.8184301,53.0691569],[8.8184072,53.0691802],[8.8183643,53.0691899],[8.818313300000002,53.0691802],[8.818298600000002,53.069152100000004],[8.818328100000002,53.06912950000001]]]},"properties":{"name":"Bierwagen 7 - Enterprise"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8186715,53.0691835],[8.8186513,53.0691432],[8.818719699999999,53.0691319],[8.8187318,53.0691456],[8.818758599999999,53.06913999999999],[8.818750599999998,53.0691262],[8.818810900000003,53.069112600000004],[8.818831,53.06914720000001],[8.8187707,53.0691625],[8.8187626,53.06914720000001],[8.8187371,53.069152800000005],[8.8187451,53.0691698],[8.8186715,53.0691835]]]},"properties":{"name":"Bierwagen 8"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.819250799999999,53.0690803],[8.819232,53.0690521],[8.819299,53.06904000000001],[8.8193165,53.0690683],[8.819250799999999,53.0690803]]]},"properties":{"name":"Bierwagen 9"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8200554,53.0690554],[8.819122000000002,53.06921650000001],[8.8190952,53.069173],[8.820039400000002,53.06901190000001],[8.8200554,53.0690554]]]},"properties":{"name":"Stände - Flut/Deichgraf - Deich"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8200165,53.068828100000005],[8.820032600000001,53.06887],[8.819691999999998,53.06891190000001],[8.819445200000002,53.0689474],[8.8191395,53.0690022],[8.818882,53.0690489],[8.8188578,53.0690135],[8.8191475,53.0689643],[8.819431800000002,53.06891350000001],[8.8196786,53.0688765],[8.8200165,53.068828100000005]]]},"properties":{"name":"Stände - Flut/Deichgraf - Weser"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8185507,53.069072299999995],[8.8186392,53.0690578],[8.8186526,53.0690884],[8.818561400000002,53.06910289999999],[8.8185507,53.069072299999995]]]},"properties":{"name":"Stand - Flut/Deichgraf - Deich"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8172646,53.0695872],[8.8160321,53.0698788],[8.816001299999998,53.0698369],[8.817243099999999,53.0695469],[8.8172646,53.0695872]]]},"properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"fill":"#555555","fill-opacity":0.5,"name":"Stände - Deichgraf/Baronesse - Deich"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.81681,53.069426],[8.8168368,53.0694679],[8.8158176,53.069717700000005],[8.8157853,53.069672600000004],[8.81681,53.069426]]]},"properties":{"name":"Stände - Deichgraf/Baroness - Weser"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.814713800000002,53.0701214],[8.814687,53.070086],[8.8149847,53.0700086],[8.8150142,53.0700425],[8.814713800000002,53.0701214]]]},"properties":{"name":"Stände - BioErleben-Dorf-Baronesse - Deich"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.811949789524077,53.07243719138031],[8.811952471733091,53.072401738713424],[8.811939060688019,53.07234372519559],[8.812067806720734,53.07230666096271],[8.812207281589508,53.072308272451785],[8.812282383441925,53.07237595493738],[8.81215900182724,53.07249681625422],[8.811949789524077,53.07243719138031]]]},"properties":{"stroke":"#ff0000","stroke-width":2,"stroke-opacity":1,"fill":"#ff0000","fill-opacity":0.5,"name":"Himmelwärts"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8125935,53.0724194],[8.8126901,53.0726483],[8.812614999999997,53.072658],[8.812518400000002,53.0724324],[8.8125935,53.0724194]]]},"properties":{"name":"Stände - Himmlische Wiese - Stadthalle\n"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.812040899999998,53.072525799999994],[8.8122771,53.072654799999995],[8.8122288,53.0726773],[8.8119766,53.0725516],[8.812040899999998,53.072525799999994]]]},"properties":{"name":"Stände - Himmlische Wiese - Straße\n"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[8.8118505,53.0722857],[8.8118479,53.0722567],[8.811869300000001,53.0722567],[8.811869300000001,53.0722825],[8.8118505,53.0722857]]]},"properties":{"name":"Bierstand C14\n"}},{"type":"Feature","properties":{"stroke":"#ff0000","stroke-width":2,"stroke-opacity":1,"fill":"#ff0000","fill-opacity":0.5,"name":"Jurte"},"geometry":{"type":"Polygon","coordinates":[[[8.81266325712204,53.07197469293287],[8.81279468536377,53.0720085344511],[8.812912702560425,53.07197146992974],[8.8129261136055,53.07190056379997],[8.812861740589142,53.0718457726197],[8.812711536884308,53.071850607138416],[8.81264179944992,53.07190862132059],[8.81266325712204,53.07197469293287]]]}},{"type":"Feature","properties":{"marker-color":"#00ff00","marker-size":"medium","marker-symbol":"","name":"Bauwagen"},"geometry":{"type":"Point","coordinates":[8.81878674030304,53.06957187716018]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"B42"},"geometry":{"type":"Point","coordinates":[8.821361660957336,53.068867605951496]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"42+U9"},"geometry":{"type":"Point","coordinates":[8.819709420204163,53.06892401253663]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"klein ohne namen"},"geometry":{"type":"Point","coordinates":[8.814336955547331,53.0701278726108]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"U3"},"geometry":{"type":"Point","coordinates":[8.812781274318695,53.07060650642317]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"MK15+MK7"},"geometry":{"type":"Point","coordinates":[8.810745477676392,53.07164272234385]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"B40"},"geometry":{"type":"Point","coordinates":[8.81140798330307,53.07233566775636]}},{"type":"Feature","properties":{"marker-color":"#ffaa00","marker-size":"medium","marker-symbol":"","name":"MK69"},"geometry":{"type":"Point","coordinates":[8.812987804412842,53.0731784677294]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bauwagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8187444,
+          53.0695728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#ff0000",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#ff0000",
+        "fill-opacity":0.5,
+        "name":"Flut"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.820425570011146,
+              53.069064222871056
+            ],
+            [
+              8.820347785949709,
+              53.06902554420371
+            ],
+            [
+              8.820326328277593,
+              53.068935293844774
+            ],
+            [
+              8.820401430130012,
+              53.06888533374334
+            ],
+            [
+              8.820554316043856,
+              53.068872440804526
+            ],
+            [
+              8.820624053478243,
+              53.06891917768938
+            ],
+            [
+              8.82064014673233,
+              53.06899814679333
+            ],
+            [
+              8.82057577371598,
+              53.06904810676387
+            ],
+            [
+              8.820425570011146,
+              53.069064222871056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#555555",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#555555",
+        "fill-opacity":0.5,
+        "name":"Flut Backstage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.82027268409729,
+              53.06908195058201
+            ],
+            [
+              8.820227086544037,
+              53.06899653518039
+            ],
+            [
+              8.821093440055847,
+              53.06884826653385
+            ],
+            [
+              8.821114897727966,
+              53.06889983829491
+            ],
+            [
+              8.820683062076569,
+              53.06902876742732
+            ],
+            [
+              8.82027268409729,
+              53.06908195058201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#ff0000",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#ff0000",
+        "fill-opacity":0.5,
+        "name":"Deichgraf"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.817947208881378,
+              53.069492909108234
+            ],
+            [
+              8.81777286529541,
+              53.06947518156646
+            ],
+            [
+              8.817721903324127,
+              53.06937203936052
+            ],
+            [
+              8.817834556102753,
+              53.069289847738325
+            ],
+            [
+              8.818078637123108,
+              53.06924633446306
+            ],
+            [
+              8.818215429782867,
+              53.06928662453426
+            ],
+            [
+              8.81826639175415,
+              53.069368816162594
+            ],
+            [
+              8.818188607692719,
+              53.06944294965362
+            ],
+            [
+              8.817947208881378,
+              53.069492909108234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#555555",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#555555",
+        "fill-opacity":0.5,
+        "name":"Deichgraf Backstage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.817507326602936,
+              53.06960088579596
+            ],
+            [
+              8.81753146648407,
+              53.069415552508765
+            ],
+            [
+              8.81775677204132,
+              53.069357534968006
+            ],
+            [
+              8.817856013774872,
+              53.06951708301706
+            ],
+            [
+              8.817507326602936,
+              53.06960088579596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#ff0000",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#ff0000",
+        "fill-opacity":0.5,
+        "name":"Baronesse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.815468847751617,
+              53.07004407085739
+            ],
+            [
+              8.815340101718903,
+              53.07003117826546
+            ],
+            [
+              8.81527304649353,
+              53.0699425415915
+            ],
+            [
+              8.815326690673828,
+              53.06986035105809
+            ],
+            [
+              8.815474212169647,
+              53.069826507851666
+            ],
+            [
+              8.815616369247437,
+              53.069865185799664
+            ],
+            [
+              8.815651237964628,
+              53.06993448370298
+            ],
+            [
+              8.815624415874481,
+              53.0700037814948
+            ],
+            [
+              8.815468847751617,
+              53.07004407085739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#555555",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#555555",
+        "fill-opacity":0.5,
+        "name":"Baronesse Backstage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.814744651317595,
+              53.070147211453815
+            ],
+            [
+              8.81590873003006,
+              53.06983295417875
+            ],
+            [
+              8.815959692001343,
+              53.06995382263286
+            ],
+            [
+              8.814798295497894,
+              53.070242293972356
+            ],
+            [
+              8.814744651317595,
+              53.070147211453815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke":"#ff0000",
+        "stroke-width":2,
+        "stroke-opacity":1,
+        "fill":"#ff0000",
+        "fill-opacity":0.5,
+        "name":"Wohnzimmer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.813038766384125,
+              53.07072737270621
+            ],
+            [
+              8.812979757785795,
+              53.070724149609724
+            ],
+            [
+              8.812963664531708,
+              53.07069997637846
+            ],
+            [
+              8.812969028949738,
+              53.07066452228136
+            ],
+            [
+              8.813022673130035,
+              53.07065001832415
+            ],
+            [
+              8.813076317310333,
+              53.07065324142616
+            ],
+            [
+              8.813097774982452,
+              53.070685472433176
+            ],
+            [
+              8.813081681728363,
+              53.07071609186749
+            ],
+            [
+              8.813038766384125,
+              53.07072737270621
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8192246,
+          53.0692779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8200202,
+          53.0690978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8200448,
+          53.0690979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8212682,
+          53.0688596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8199302,
+          53.0688692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "A203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8189903,
+          53.0690191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.818545,
+          53.0690929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "A204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8166598,
+          53.0694949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "U4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8166736,
+          53.0695066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "A210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81589,
+          53.0696502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8150391,
+          53.0698848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8138671,
+          53.0702416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.813451,
+          53.0703606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8129543,
+          53.0707359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "A201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8129648,
+          53.0707358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8129787,
+          53.0707351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8135429,
+          53.0705468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8135571,
+          53.0705441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8139697,
+          53.0704371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8139984,
+          53.0704326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8148085,
+          53.0702113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "unbekannter stromkasten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8148228,
+          53.070208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8160281,
+          53.0699283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8164464,
+          53.0698266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "B80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8167638,
+          53.0697362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8167886,
+          53.0697383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8187952,
+          53.0692944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": 251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8188352,
+          53.0692818
+        ]
+      }
+    }
+  ]
+}
