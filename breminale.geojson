@@ -357,7 +357,7 @@
         "marker-symbol": "",
         "name": "173",
         "type": "breminale",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "type": "Feature",
       "geometry": {
@@ -378,7 +378,7 @@
       },
       "properties": {
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "187",
         "marker-symbol": "",
         "marker-color": "#ffaa00"
@@ -398,7 +398,7 @@
         "marker-color": "#ffaa00",
         "marker-symbol": "",
         "name": "193",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale"
       }
     },
@@ -412,7 +412,7 @@
       },
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "252",
         "marker-symbol": "",
@@ -429,7 +429,7 @@
       },
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "257",
         "marker-symbol": "",
@@ -448,7 +448,7 @@
         "marker-symbol": "",
         "name": "262",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-color": "#ffaa00"
       },
       "type": "Feature"
@@ -458,7 +458,7 @@
         "name": "267",
         "marker-symbol": "",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-color": "#ffaa00"
       },
       "type": "Feature",
@@ -479,7 +479,7 @@
         "type": "Point"
       },
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "273",
@@ -490,7 +490,7 @@
     {
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "289"
@@ -514,7 +514,7 @@
       },
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "32"
@@ -524,7 +524,7 @@
     {
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "35",
         "marker-symbol": ""
@@ -541,7 +541,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "38",
         "marker-symbol": "",
@@ -568,7 +568,7 @@
         "marker-symbol": "",
         "name": "40",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-color": "#ffaa00"
       }
     },
@@ -576,7 +576,7 @@
       "properties": {
         "marker-color": "#ffaa00",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "405",
         "marker-symbol": ""
       },
@@ -601,7 +601,7 @@
       "properties": {
         "marker-color": "#ffaa00",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "408",
         "marker-symbol": ""
       }
@@ -611,7 +611,7 @@
       "properties": {
         "name": "435",
         "marker-symbol": "",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-color": "#ffaa00"
       },
@@ -633,7 +633,7 @@
       },
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "612"
@@ -644,7 +644,7 @@
       "properties": {
         "marker-symbol": "",
         "name": "A203",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-color": "#ffaa00"
       },
@@ -664,7 +664,7 @@
         "marker-symbol": "",
         "name": "A204",
         "type": "breminale",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -677,7 +677,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "A208",
@@ -694,7 +694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "A210",
         "marker-symbol": "",
@@ -712,7 +712,7 @@
       "properties": {
         "marker-color": "#ffaa00",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "B31",
         "marker-symbol": ""
       },
@@ -729,7 +729,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "B33",
         "marker-symbol": ""
@@ -751,7 +751,7 @@
         ]
       },
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "B36",
@@ -773,7 +773,7 @@
         "marker-symbol": "",
         "name": "B40",
         "type": "breminale",
-        "marker-size": "medium"
+        "marker-size": "small"
       }
     },
     {
@@ -788,7 +788,7 @@
       "properties": {
         "marker-color": "#ffaa00",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "name": "B43"
       }
@@ -797,7 +797,7 @@
       "properties": {
         "marker-color": "#ffaa00",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "B79",
         "marker-symbol": ""
       },
@@ -814,7 +814,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "name": "B80",
         "marker-symbol": ""
@@ -839,14 +839,14 @@
         "marker-color": "#ffaa00",
         "marker-symbol": "",
         "name": "B82",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale"
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "bauwagen",
@@ -871,7 +871,7 @@
       },
       "properties": {
         "marker-color": "#ffaa00",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "EV1"
@@ -890,7 +890,7 @@
       "properties": {
         "marker-symbol": "",
         "name": "EV4",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-color": "#ffaa00"
       }
@@ -898,7 +898,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-symbol": "",
         "name": "S610",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-color": "#ffaa00",
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "U9",
         "marker-symbol": ""
       },
@@ -940,7 +940,7 @@
       "type": "Feature",
       "properties": {
         "type": "breminale",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Z1",
         "marker-symbol": "",
         "marker-color": "#ffaa00"
@@ -958,7 +958,7 @@
       "properties": {
         "name": "Z3",
         "marker-symbol": "",
-        "marker-size": "medium",
+        "marker-size": "small",
         "type": "breminale",
         "marker-color": "#ffaa00"
       }
