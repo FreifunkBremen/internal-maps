@@ -845,23 +845,6 @@
       "type": "Feature"
     },
     {
-      "properties": {
-        "marker-size": "small",
-        "type": "breminale",
-        "marker-symbol": "",
-        "name": "bauwagen",
-        "marker-color": "#ffaa00"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.8186944,
-          53.0695851
-        ]
-      }
-    },
-    {
       "geometry": {
         "coordinates": [
           8.8178613,
