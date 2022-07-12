@@ -43,31 +43,31 @@
                      53.07003930085
                   ],
                   [
-                     8.81567939122,
+                     8.81540513893,
                      53.07000510095
-                  ],
-                  [
-                     8.81574148608,
-                     53.06994291924
-                  ],
-                  [
-                     8.81568974036,
-                     53.06985897379
-                  ],
-                  [
-                     8.81556037608,
-                     53.06981233736
-                  ],
-                  [
-                     8.8154103135,
-                     53.06984031922
                   ],
                   [
                      8.81534304407,
                      53.06991804653
                   ],
                   [
-                     8.81540513893,
+                     8.8154103135,
+                     53.06984031922
+                  ],
+                  [
+                     8.81556037608,
+                     53.06981233736
+                  ],
+                  [
+                     8.81568974036,
+                     53.06985897379
+                  ],
+                  [
+                     8.81574148608,
+                     53.06994291924
+                  ],
+                  [
+                     8.81567939122,
                      53.07000510095
                   ],
                   [
@@ -81,146 +81,8 @@
          "properties" : {
             "fill" : "#ff0000",
             "fill-opacity" : 0.5,
-            "name" : "Bremen1",
+            "name" : "Schleuse",
             "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.81307631597,
-                     53.07070078296
-                  ],
-                  [
-                     8.81316348776,
-                     53.07068144436
-                  ],
-                  [
-                     8.8131755577,
-                     53.07063873827
-                  ],
-                  [
-                     8.813115208,
-                     53.07060811878
-                  ],
-                  [
-                     8.81303742394,
-                     53.07062181698
-                  ],
-                  [
-                     8.81301864848,
-                     53.07066935774
-                  ],
-                  [
-                     8.81307631597,
-                     53.07070078296
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "Wohnzimmer",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.8179510281,
-                     53.06947655355
-                  ],
-                  [
-                     8.81822010582,
-                     53.06942369846
-                  ],
-                  [
-                     8.81830289896,
-                     53.06935218852
-                  ],
-                  [
-                     8.81825632782,
-                     53.06927135105
-                  ],
-                  [
-                     8.81811143982,
-                     53.06922471398
-                  ],
-                  [
-                     8.81784753667,
-                     53.06927756932
-                  ],
-                  [
-                     8.81778026724,
-                     53.06935218852
-                  ],
-                  [
-                     8.81782166381,
-                     53.0694423532
-                  ],
-                  [
-                     8.8179510281,
-                     53.06947655355
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "Bremen4",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.81217241019,
-                     53.07253549342
-                  ],
-                  [
-                     8.81203829974,
-                     53.07258706076
-                  ],
-                  [
-                     8.81151526898,
-                     53.07227765576
-                  ],
-                  [
-                     8.81165742606,
-                     53.07223736849
-                  ],
-                  [
-                     8.81217241019,
-                     53.07253549342
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#555555",
-            "fill-opacity" : 0.5,
-            "name" : "Backstage Bremen2",
-            "stroke" : "#555555",
             "stroke-opacity" : 1,
             "stroke-width" : 2
          },
@@ -235,32 +97,32 @@
                      53.06904005032
                   ],
                   [
-                     8.82060795754,
-                     53.06902071098
-                  ],
-                  [
-                     8.82065087289,
-                     53.06897075098
-                  ],
-                  [
-                     8.82062136859,
-                     53.06889500506
-                  ],
-                  [
-                     8.82052749127,
-                     53.06884987976
-                  ],
-                  [
-                     8.82037996978,
-                     53.06886760756
+                     8.82034778327,
+                     53.06900620647
                   ],
                   [
                      8.82032096118,
                      53.06893046061
                   ],
                   [
-                     8.82034778327,
-                     53.06900620647
+                     8.82037996978,
+                     53.06886760756
+                  ],
+                  [
+                     8.82052749127,
+                     53.06884987976
+                  ],
+                  [
+                     8.82062136859,
+                     53.06889500506
+                  ],
+                  [
+                     8.82065087289,
+                     53.06897075098
+                  ],
+                  [
+                     8.82060795754,
+                     53.06902071098
                   ],
                   [
                      8.82046848267,
@@ -285,96 +147,20 @@
             "coordinates" : [
                [
                   [
-                     8.81451934308,
-                     53.07035188196
-                  ],
-                  [
-                     8.81460249156,
-                     53.07033576633
-                  ],
-                  [
-                     8.81456494063,
-                     53.07028419629
-                  ],
-                  [
-                     8.81448447436,
-                     53.07030836975
-                  ],
-                  [
-                     8.81451934308,
-                     53.07035188196
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "FOH",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.81200611323,
-                     53.07246942266
-                  ],
-                  [
-                     8.81211340159,
-                     53.07242107815
-                  ],
-                  [
-                     8.81200074881,
-                     53.07234694978
-                  ],
-                  [
-                     8.8119068715,
-                     53.0724049633
-                  ],
-                  [
-                     8.81200611323,
-                     53.07246942266
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "Bremen2",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
                      8.82022171944,
                      53.06908839863
                   ],
                   [
-                     8.82117390364,
-                     53.06892079092
+                     8.82025658816,
+                     53.0689852555
                   ],
                   [
                      8.82113635272,
                      53.06884504491
                   ],
                   [
-                     8.82025658816,
-                     53.0689852555
+                     8.82117390364,
+                     53.06892079092
                   ],
                   [
                      8.82022171944,
@@ -403,16 +189,16 @@
                      53.07093859308
                   ],
                   [
-                     8.81258499748,
-                     53.07092110486
+                     8.81249961705,
+                     53.07090789153
                   ],
                   [
                      8.81255912462,
                      53.07089118056
                   ],
                   [
-                     8.81249961705,
-                     53.07090789153
+                     8.81258499748,
+                     53.07092110486
                   ],
                   [
                      8.81252548991,
@@ -425,83 +211,7 @@
          "properties" : {
             "fill" : "#ff0000",
             "fill-opacity" : 0.5,
-            "name" : "FOH",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.81430476636,
-                     53.07020200641
-                  ],
-                  [
-                     8.81454616517,
-                     53.07014398993
-                  ],
-                  [
-                     8.81449788541,
-                     53.07008275022
-                  ],
-                  [
-                     8.8142591688,
-                     53.07014882464
-                  ],
-                  [
-                     8.81430476636,
-                     53.07020200641
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "Bremen Next",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.81222873658,
-                     53.0723308349
-                  ],
-                  [
-                     8.81230383843,
-                     53.07229860513
-                  ],
-                  [
-                     8.81225287646,
-                     53.07225992937
-                  ],
-                  [
-                     8.81218582124,
-                     53.07229377066
-                  ],
-                  [
-                     8.81222873658,
-                     53.0723308349
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "FOH",
+            "name" : "FOH 3-Meter-Bretter",
             "stroke" : "#ff0000",
             "stroke-opacity" : 1,
             "stroke-width" : 2
@@ -517,16 +227,16 @@
                      53.07080879147
                   ],
                   [
-                     8.81260310848,
-                     53.07073572931
+                     8.81231980069,
+                     53.07075593801
                   ],
                   [
                      8.81255912462,
                      53.0706859848
                   ],
                   [
-                     8.81231980069,
-                     53.07075593801
+                     8.81260310848,
+                     53.07073572931
                   ],
                   [
                      8.8123624909,
@@ -551,74 +261,24 @@
             "coordinates" : [
                [
                   [
-                     8.82139384478,
-                     53.0688805005
+                     8.81463199853897,
+                     53.0702841946766
                   ],
                   [
-                     8.82152795523,
-                     53.06887244242
+                     8.81458036601543,
+                     53.0702060337146
                   ],
                   [
-                     8.82157087058,
-                     53.06883215196
+                     8.81601467728615,
+                     53.0698031399079
                   ],
                   [
-                     8.82150381535,
-                     53.06880475442
+                     8.81608709692955,
+                     53.0699183679215
                   ],
                   [
-                     8.8213992092,
-                     53.06881442414
-                  ],
-                  [
-                     8.82135897607,
-                     53.06885149138
-                  ],
-                  [
-                     8.82139384478,
-                     53.0688805005
-                  ]
-               ]
-            ],
-            "type" : "Polygon"
-         },
-         "properties" : {
-            "fill" : "#ff0000",
-            "fill-opacity" : 0.5,
-            "name" : "Kinderzelt",
-            "stroke" : "#ff0000",
-            "stroke-opacity" : 1,
-            "stroke-width" : 2
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               [
-                  [
-                     8.81751118952,
-                     53.06957604532
-                  ],
-                  [
-                     8.8179510281,
-                     53.06947655355
-                  ],
-                  [
-                     8.81782166381,
-                     53.0694423532
-                  ],
-                  [
-                     8.81778026724,
-                     53.06935218852
-                  ],
-                  [
-                     8.81742322181,
-                     53.06944546233
-                  ],
-                  [
-                     8.81751118952,
-                     53.06957604532
+                     8.81463199853897,
+                     53.0702841946766
                   ]
                ]
             ],
@@ -627,7 +287,7 @@
          "properties" : {
             "fill" : "#555555",
             "fill-opacity" : 0.5,
-            "name" : "Backstage Bremen4",
+            "name" : "Backstage Schleuse",
             "stroke" : "#555555",
             "stroke-opacity" : 1,
             "stroke-width" : 2
@@ -639,24 +299,24 @@
             "coordinates" : [
                [
                   [
-                     8.81481523778,
-                     53.07021962716
+                     8.81856679916382,
+                     53.0693946017392
                   ],
                   [
-                     8.81602091294,
-                     53.06991493744
+                     8.81852656602859,
+                     53.0693172449631
                   ],
                   [
-                     8.81596399265,
-                     53.06983099193
+                     8.81895035505295,
+                     53.0692318300282
                   ],
                   [
-                     8.81476349207,
-                     53.07013879132
+                     8.81899125874043,
+                     53.0693152304619
                   ],
                   [
-                     8.81481523778,
-                     53.07021962716
+                     8.81856679916382,
+                     53.0693946017392
                   ]
                ]
             ],
@@ -665,7 +325,7 @@
          "properties" : {
             "fill" : "#555555",
             "fill-opacity" : 0.5,
-            "name" : "Backstage Bremen1",
+            "name" : "EingezÃ¤unter Bereich",
             "stroke" : "#555555",
             "stroke-opacity" : 1,
             "stroke-width" : 2
@@ -675,595 +335,251 @@
       {
          "geometry" : {
             "coordinates" : [
-               8.816083,
-               53.0699196
+               [
+                  [
+                     8.81832137703896,
+                     53.0692535866787
+                  ],
+                  [
+                     8.81779968738556,
+                     53.0693478653703
+                  ],
+                  [
+                     8.81776347756386,
+                     53.0692793723242
+                  ],
+                  [
+                     8.81828248500824,
+                     53.0691713948304
+                  ],
+                  [
+                     8.81832137703896,
+                     53.0692535866787
+                  ]
+               ]
             ],
-            "type" : "Point"
+            "type" : "Polygon"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "173",
-            "type" : "breminale"
+            "fill" : "#555555",
+            "fill-opacity" : 0.5,
+            "name" : "Backstage Radio Bremen",
+            "stroke" : "#555555",
+            "stroke-opacity" : 1,
+            "stroke-width" : 2
          },
          "type" : "Feature"
       },
       {
          "geometry" : {
             "coordinates" : [
-               8.8166116,
-               53.0697917
+               8.8129511,
+               53.0709092
             ],
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "187",
-            "type" : "breminale"
+            "name" : "Laterne mit Nanobeam",
+            "sym" : null,
+            "time" : "2022-07-12T20:57:58Z"
          },
          "type" : "Feature"
       },
       {
          "geometry" : {
             "coordinates" : [
-               8.8139855,
-               53.0704436
+               [
+                  [
+                     8.81288185715675,
+                     53.0707499343748
+                  ],
+                  [
+                     8.81276249885559,
+                     53.0706935301812
+                  ],
+                  [
+                     8.81276786327362,
+                     53.0706451836707
+                  ],
+                  [
+                     8.81286576390266,
+                     53.070621010395
+                  ],
+                  [
+                     8.81295964121818,
+                     53.0706693569327
+                  ],
+                  [
+                     8.81295695900917,
+                     53.0707297900284
+                  ],
+                  [
+                     8.81288185715675,
+                     53.0707499343748
+                  ]
+               ]
             ],
-            "type" : "Point"
+            "type" : "Polygon"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "193",
-            "type" : "breminale"
+            "fill" : "#555555",
+            "fill-opacity" : 0.5,
+            "name" : "Good-Is-Zelt",
+            "stroke" : "#555555",
+            "stroke-opacity" : 1,
+            "stroke-width" : 2
          },
          "type" : "Feature"
       },
       {
          "geometry" : {
             "coordinates" : [
-               8.8147972,
-               53.0702233
+               [
+                  [
+                     8.81410896778107,
+                     53.070349463
+                  ],
+                  [
+                     8.81404995918274,
+                     53.0702640501123
+                  ],
+                  [
+                     8.81430611014366,
+                     53.0701963643074
+                  ],
+                  [
+                     8.81437182426453,
+                     53.0702866120237
+                  ],
+                  [
+                     8.81410896778107,
+                     53.070349463
+                  ]
+               ]
             ],
-            "type" : "Point"
+            "type" : "Polygon"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "252",
-            "type" : "breminale"
+            "fill" : "#555555",
+            "fill-opacity" : 0.5,
+            "name" : "Papp",
+            "stroke" : "#555555",
+            "stroke-opacity" : 1,
+            "stroke-width" : 2
          },
          "type" : "Feature"
       },
       {
          "geometry" : {
             "coordinates" : [
-               8.8136078,
-               53.0705444
+               [
+                  [
+                     8.81804376840591,
+                     53.0695271554751
+                  ],
+                  [
+                     8.81802901625633,
+                     53.0694977438911
+                  ],
+                  [
+                     8.81809003651142,
+                     53.0694854554836
+                  ],
+                  [
+                     8.81810545921326,
+                     53.0695162772203
+                  ],
+                  [
+                     8.81804376840591,
+                     53.0695271554751
+                  ]
+               ]
             ],
-            "type" : "Point"
+            "type" : "Polygon"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "257",
-            "type" : "breminale"
+            "fill" : "#555555",
+            "fill-opacity" : 0.5,
+            "name" : "FOH Radio Bremen",
+            "stroke" : "#555555",
+            "stroke-opacity" : 1,
+            "stroke-width" : 2
          },
          "type" : "Feature"
       },
       {
          "geometry" : {
             "coordinates" : [
-               8.816896,
-               53.0697238
+               [
+                  [
+                     8.81690919399261,
+                     53.0697076535232
+                  ],
+                  [
+                     8.81687600165606,
+                     53.0696601117
+                  ],
+                  [
+                     8.81731554865837,
+                     53.0695485090783
+                  ],
+                  [
+                     8.81735108792782,
+                     53.0696024973862
+                  ],
+                  [
+                     8.81690919399261,
+                     53.0697076535232
+                  ]
+               ]
             ],
-            "type" : "Point"
+            "type" : "Polygon"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "262",
-            "type" : "breminale"
+            "fill" : "#555555",
+            "fill-opacity" : 0.5,
+            "name" : "EingezÃ¤unter Bereich",
+            "stroke" : "#555555",
+            "stroke-opacity" : 1,
+            "stroke-width" : 2
          },
          "type" : "Feature"
       },
       {
          "geometry" : {
             "coordinates" : [
-               8.8188368,
-               53.0693236
+               [
+                  [
+                     8.81145626306534,
+                     53.0711487904931
+                  ],
+                  [
+                     8.81140932440758,
+                     53.0711060848631
+                  ],
+                  [
+                     8.81143480539322,
+                     53.0710956098908
+                  ],
+                  [
+                     8.81148375570774,
+                     53.0711383155312
+                  ],
+                  [
+                     8.81145626306534,
+                     53.0711487904931
+                  ]
+               ]
             ],
-            "type" : "Point"
+            "type" : "Polygon"
          },
          "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "267",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8194216,
-               53.069187
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "273",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8200423,
-               53.0690888
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "289",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8138584,
-               53.0702531
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "32",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8199266,
-               53.0688432
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "35",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8185134,
-               53.069096
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "38",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8150566,
-               53.0698806
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "40",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8112399,
-               53.071472
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "405",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.812519,
-               53.0710931
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "408",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8129632,
-               53.0707344
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "435",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8188878,
-               53.0693134
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "612",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8114879,
-               53.0712024
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "A203",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.819254,
-               53.0689544
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "A204",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8159974,
-               53.0696236
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "A208",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8144133,
-               53.0700873
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "A210",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8140204,
-               53.0704347
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B31",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8135663,
-               53.07056
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B33",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8128567,
-               53.0707559
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B36",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.814828,
-               53.0702168
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B40",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8212978,
-               53.0688609
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B43",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8199904,
-               53.0691005
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B79",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8168737,
-               53.0697307
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B80",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8129971,
-               53.0707278
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "B82",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8178613,
-               53.0695179
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "EV1",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8152284,
-               53.0701285
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "EV4",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8126658,
-               53.0710492
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "S610",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8127432,
-               53.0705852
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "U9",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8206744,
-               53.0690039
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "Z1",
-            "type" : "breminale"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               8.8166795,
-               53.0694649
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "marker-color" : "#ffaa00",
-            "marker-size" : "small",
-            "marker-symbol" : "",
-            "name" : "Z3",
-            "type" : "breminale"
+            "fill" : "#555555",
+            "fill-opacity" : 0.5,
+            "name" : "KÃ¼hlcontainer",
+            "stroke" : "#555555",
+            "stroke-opacity" : 1,
+            "stroke-width" : 2
          },
          "type" : "Feature"
       }
